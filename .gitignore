@@ -26,7 +26,9 @@ subDl_download.py
 sub_downloader.py
 subtitle_downloader.py
 
-
+media/
+md/
+subs/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
